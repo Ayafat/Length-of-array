@@ -1,0 +1,6 @@
+public class Program {
+    public static void main(String[] args) {
+        int[]int Arr=new int[8];
+System.out.println(Arr length);
+}
+}
